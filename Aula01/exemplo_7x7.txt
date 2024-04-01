@@ -1,0 +1,3 @@
+Nome do arquivo: exemplo_7x7.txt
+Linhas: 7
+Colunas: 7
